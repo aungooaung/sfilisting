@@ -1,0 +1,7 @@
+table.sfilisting { border: 0px; }
+table.sfilisting tr { border: 0px;}
+table.sfilisting td { border: 0px; }
+.sfilisting-name { font-weight: bold; font-size: 150%; }
+.sfilisting-star { font-size: 150%; color: #FFD700; white-space: nowrap;}
+.sfilisting-details { font-size: 100%; }
+.groupcol { font-size: 80%; color: gray; }img.sfilisting-img { object-fit: cover;}
